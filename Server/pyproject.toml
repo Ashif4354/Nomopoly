@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "nomopoly-server"
+version = "0.1.0"
+description = "Server for Nomopoly"
+authors = ["DarkGlance <darkglance.developer@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

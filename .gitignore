@@ -1,0 +1,8 @@
+#==========SERVER IGNORES==========
+
+.venv/
+__pycache__/
+
+
+#==========COMMON IGNORES==========
+*.env*
